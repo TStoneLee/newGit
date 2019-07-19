@@ -1,1 +1,1 @@
-—ßœ∞git ¡Œ—©∑Â
+Creating a new branch is quick.
