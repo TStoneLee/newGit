@@ -1,2 +1,1 @@
-Creating a new branch is quick and simple.
-fast forward git stash
+记录在平时遇到的git问题以及常用的git命令
